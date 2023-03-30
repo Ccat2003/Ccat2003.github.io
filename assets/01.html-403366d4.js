@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-04d90a2c","path":"/blogs/Something/01.html","title":"刚刚踏入二十岁的一些感想","lang":"en-US","frontmatter":{"title":"刚刚踏入二十岁的一些感想","date":"2023/3/22","tags":["随笔"],"categories":["Something"],"sidebar":"auto"},"headers":[],"git":{},"filePathRelative":"blogs/Something/01.md"}');export{t as data};

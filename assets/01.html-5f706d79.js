@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3f11225c","path":"/blogs/FrontSide/01.html","title":"Typescript 在编译时出现ES版本不够的情况","lang":"en-US","frontmatter":{"title":"Typescript 在编译时出现ES版本不够的情况","date":"2023/3/21","tags":["TypeScript"],"categories":["FrontSide"],"sidebar":"auto"},"headers":[],"git":{},"filePathRelative":"blogs/FrontSide/01.md"}');export{t as data};
